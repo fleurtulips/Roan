@@ -1,1 +1,29 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Special For You</title>
+    <script src="https://dekatutorial.github.io/script.js"></script> <!-- Corrected script source URL -->
+</head>
+
+<body>
+    <div class="open">
+        <i>🤍</i>
+        <span>Klik love nya</span>
+    </div>
+
+    <script>
+        let ucapan = "Roan, those flower
+Are beautifull like you. 
+I love you so much, prince.";
+        let musik = "-"; 
+        let nomorWhatsapp = "-";
+        let idTelegram = "@Jevonv";
+
+        Jevon(ucapan, musik, nomorWhatsapp, idTelegram);
+    </script>
+</body>
+</html>
